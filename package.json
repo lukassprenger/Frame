@@ -1,0 +1,15 @@
+{
+  "name": "frame",
+  "version": "0.0.1",
+  "description": "Static site generator build on top of nodejs. Heavily inspired by Metalsmith.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "gray-matter": "^4.0.1",
+    "recursive-readdir-synchronous": "0.0.3"
+  }
+}
