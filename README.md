@@ -13,7 +13,7 @@ let Plugins = require('./lib/plugins.js')
 
 Frame(__dirname)
   .source('src')
-  .destiantion('dest')
+  .destination('dest')
   .meta({
     generator: 'Frame - a plugable static site generator',
     author: 'a Frame user'
