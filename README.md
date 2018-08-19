@@ -23,3 +23,11 @@ Frame(__dirname)
   .use(Plugins.permalinks)
   .build()
 ```
+
+## Installation
+
+Simply clone the git directory.
+
+```
+git clone https://github.com/lukaspsrenger/Frame.git
+```
