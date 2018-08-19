@@ -31,3 +31,8 @@ Simply clone the git directory.
 ```
 git clone https://github.com/lukaspsrenger/Frame.git
 ```
+
+## Writing your own plugins
+
+Every plugin is a function taking the file and a global Frame object as parameters. It changes the file and returns it.
+
