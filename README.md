@@ -11,7 +11,7 @@ Frame comes with a basic plugin set included.
 let Frame = require('./lib')
 let Plugins = require('./lib/plugins.js')
 
-Frame(__dirname')
+Frame(__dirname)
   .source('src')
   .destiantion('dest')
   .meta({
