@@ -29,7 +29,7 @@ Frame(__dirname)
 Simply clone the git directory.
 
 ```
-git clone https://github.com/lukaspsrenger/Frame.git
+git clone https://github.com/lukassprenger/Frame.git
 ```
 
 ## Writing your own plugins
